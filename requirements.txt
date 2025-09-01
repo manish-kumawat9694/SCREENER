@@ -4,4 +4,3 @@ requests
 vaderSentiment
 plotly
 yfinance
-feedparser 
